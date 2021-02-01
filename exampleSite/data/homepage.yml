@@ -42,6 +42,11 @@ tab:
   - name: Datathon
     date: 
     tablist_items:
+    - speaker: Atousa Ghahramani
+      speaker_image: "/images/atousa-ghahramani.jpeg"
+      subject: VU Data Analytics Student Association
+      venue: ''
+      time: ''
     - speaker: Maria Prokofieva
       speaker_image: "/images/maria.jpg"
       subject: Datathon Context
