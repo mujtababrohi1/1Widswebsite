@@ -1,26 +1,14 @@
 ---
-title: Dr Amrita Prasad
+title: Dr. Amrita Prasad
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
-designation: Web Developer
+date: 
+designation: Disruptive Technology Delivery Principal
 image: "/images/dr-amrita-prasad.jpeg"
 description: Disruptive Technology Delivery Principal
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
-  link: "#"
+  link: https://www.linkedin.com/in/dr-amrita-prasad-17071a35/
 personal_info:
   enable: true
   title: Personal Information
@@ -51,4 +39,11 @@ skills:
     percentage: 80%
 
 ---
-## Disruptive Technology Delivery Principal
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore
+dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse.
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
+dolores eos qui ratione voluptatem sequi nesciunt.
+
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
