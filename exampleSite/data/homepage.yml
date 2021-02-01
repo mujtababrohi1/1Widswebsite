@@ -119,7 +119,7 @@ call_to_action:
   content: Team up with the most amazing women in world of data science.
   button:
     enable: true
-    label: Buy ticket
+    label: JOIN NOW
     link: "#"
 sponsors:
   enable: true
