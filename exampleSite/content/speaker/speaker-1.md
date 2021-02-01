@@ -1,7 +1,7 @@
 ---
-title: Jessica Juli
+title: Devini Goonetilleke
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
+date: 
 designation: Web Developer
 image: "/images/devini-goonetilleke.jpeg"
 description: Business Transformation Specialist| Executive Leader | Bespoke Solutions
