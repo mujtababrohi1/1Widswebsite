@@ -80,7 +80,7 @@ registration:
   form_action: "#"
   funfacts: []
 pricing:
-  enable: true
+  enable: false
   title: Get _Ticket_
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor
     incididunt ut labore
@@ -114,10 +114,9 @@ pricing:
     - Easy Access
 call_to_action:
   enable: true
-  title: Get Ticket _Now!_
+  title: Register Yourself  _Now!_
   image: images/speakers/speaker-ticket.png
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor
-    incidi
+  content: Team up with the most amazing women in world of data science.
   button:
     enable: true
     label: Buy ticket
