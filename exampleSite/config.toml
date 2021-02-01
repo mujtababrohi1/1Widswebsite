@@ -74,7 +74,7 @@ link = "plugins/syotimer/syotimer.min.js"
 attributes = ""
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.subscription]
 content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
@@ -86,7 +86,3 @@ title = "Subscribe to Our Newsletter"
 icon = "fa-facebook"
 link = "#https://www.facebook.com/groups/285698912845274"
 title = "facebook"
-[[params.social]]
-icon = "fa-twitter"
-link = "#"
-title = "twitter"
