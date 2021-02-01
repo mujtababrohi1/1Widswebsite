@@ -8,7 +8,7 @@ description: Senior Lecturer at Victoria Graduate School of Business
 social:
 - name: linkedin
   icon: fa-linkedin
-  link: "#https://www.linkedin.com/in/mariapr/"
+  link: https://www.linkedin.com/in/mariapr/
 personal_info:
   enable: true
   title: Personal Information
