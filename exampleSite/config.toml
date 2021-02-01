@@ -6,7 +6,7 @@ paginate = "3"
 summaryLength = "10"
 theme = "1WiDswebsite"
 themesDir = "../.."
-title = "Eventre Hugo | Event Management Template"
+title = "Wids Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
