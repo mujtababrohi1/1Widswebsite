@@ -122,7 +122,7 @@ call_to_action:
     label: JOIN NOW
     link: "#"
 sponsors:
-  enable: true
+  enable: false
   title: Our _Sponsors_
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor
     incididunt ut labore dolore
