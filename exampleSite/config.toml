@@ -19,8 +19,8 @@ author = "Themefisher"
 contact_form_action = "#"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 description = "This is meta description"
-logo = "/images/wids-black-1line-1.png"
-logo_footer = "/images/wids-black-1line-1.png"
+logo = "/images/melbourne-australia.png"
+logo_footer = "/images/melbourne-australia.png"
 logo_width = "100px"
 [params.cookies]
 enable = true
