@@ -1,5 +1,5 @@
 ---
-title: Lossica Mix
+title: Michelle Mae (Roldan) Lugton
 page_header_bg: images/background/page-title-bg.jpg
 date: 2020-03-14T15:40:24.000+06:00
 designation: Web Developer
