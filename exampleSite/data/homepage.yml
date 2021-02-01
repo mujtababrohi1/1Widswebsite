@@ -52,9 +52,14 @@ tab:
       subject: Datathon Context
       venue: ''
       time: '10:15'
-  - name: Workshops
+  - name: Workshop Talks
     date: 
-    tablist_items: []
+    tablist_items:
+    - speaker_image: ''
+      subject: ''
+      venue: ''
+      time: ''
+      speaker: To be confirmed
 registration:
   enable: true
   title: Register to _Eventre_
