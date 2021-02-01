@@ -75,18 +75,10 @@ tab:
       speaker: To be confirmed
 registration:
   enable: true
-  title: Register to _Eventre_
+  title: Register to WIDS 2021 Conference
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit
   form_action: "#"
-  funfacts:
-  - name: 8 Speakers
-    icon: fa-microphone
-  - name: 500 + Seats
-    icon: fa-flag
-  - name: 300 tickets
-    icon: fa-ticket
-  - name: 3 days event
-    icon: fa-calendar
+  funfacts: []
 pricing:
   enable: true
   title: Get _Ticket_
