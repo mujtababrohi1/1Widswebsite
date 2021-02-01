@@ -39,17 +39,17 @@ tab:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor
     incididunt ut labore
   tablist:
-  - name: Workshops
+  - name: Datathon
     date: 
     tablist_items:
     - speaker: Maria Prokofieva
       speaker_image: "/images/maria.jpg"
-      subject: 'DATATHON CONTEXT '
+      subject: Datathon Context
       venue: ''
       time: '10:15'
-  - name: Datathon
+  - name: Workshops
     date: 
-    tablist_items: ''
+    tablist_items: []
 registration:
   enable: true
   title: Register to _Eventre_
