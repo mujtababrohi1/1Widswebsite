@@ -24,7 +24,7 @@ about:
     outstanding work.
   button_solid:
     enable: true
-    label: Join Now
+    label: JOIN NOW
     link: "#"
   button_outline:
     enable: true
