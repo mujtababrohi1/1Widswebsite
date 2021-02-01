@@ -1,25 +1,13 @@
 ---
-title: Amanda Cole
+title: Michelle Mae (Roldan) Lugton
 page_header_bg: images/background/page-title-bg.jpg
 date: 
-designation: Project Manager
-image: "/images/amanda-cole.jpeg"
-description: President at Data Analytics student association
+designation: Data Science Lead at Coles
+image: "/images/michelle-mae-lugton.jpeg"
+description: Data Science Lead at Coles
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
   link: "#"
 personal_info:
   enable: true
@@ -51,4 +39,4 @@ skills:
     percentage: 80%
 
 ---
-President at Data Analytics student association
+## Data Science Lead at Coles
