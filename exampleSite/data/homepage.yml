@@ -74,7 +74,7 @@ tab:
       time: ''
       speaker: To be confirmed
 registration:
-  enable: true
+  enable: false
   title: Register to WIDS 2021 Conference
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit
   form_action: "#"
