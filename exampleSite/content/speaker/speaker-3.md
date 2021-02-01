@@ -1,27 +1,14 @@
 ---
-title: Atousa Ghahramani
+title: Maria Prokofieva
 page_header_bg: images/background/page-title-bg.jpg
 date: 2020-03-14T15:40:24.000+06:00
-designation: Marketing Lead
-image: "/images/atousa-ghahramani.jpeg"
-description: PhD Student at Victoria University, Social Media Analyst and Digital
-  Marketing Strategist in Healthcare and wellbeing
+designation: Senior Lecturer at Victoria Graduate School of Business
+image: "/images/maria.jpg"
+description: Senior Lecturer at Victoria Graduate School of Business
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
-  link: "#"
+  link: "#https://www.linkedin.com/in/mariapr/"
 personal_info:
   enable: true
   title: Personal Information
@@ -52,4 +39,4 @@ skills:
     percentage: 80%
 
 ---
-## PhD Student at Victoria University, Social Media Analyst and Digital Marketing Strategist in Healthcare and wellbeing
+## Senior Lecturer at Victoria Graduate School of Business
