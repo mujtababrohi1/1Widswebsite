@@ -15,13 +15,12 @@ banner:
     link: "#"
 about:
   enable: true
-  title: About
+  title: About THE WIDS
   image: "/images/kelley-sternhagen.jpeg"
-  content: WiDs 2021 Mentorship workshops is an independent event organised by Victoria
-    University to coincide with the annual Global Women in Data Science (WiDS) Conference
-    held at Stanford University and an estimated 150+ locations worldwide. All genders
-    are invited to attend WiDS regional events, which features outstanding women doing
-    outstanding work.
+  content: The Women in Data Science (WiDS) conference is a technical conference featuring
+    outstanding women doing outstanding work in data science and related fields such
+    as artificial intelligence in a wide range of domains. Thought leaders around
+    the world, from academia, industry, non-profits, and government.
   button_solid:
     enable: true
     label: JOIN NOW
