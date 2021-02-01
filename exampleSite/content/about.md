@@ -1,42 +1,44 @@
 ---
-title : "About Us"
-page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
-description : "this is meta description"
-draft : false
-layout : "about"
-image : "images/speakers/featured-speaker.jpg"
-
-
-#### Testimonial ####
+title: About Us
+page_header_bg: images/background/page-title-bg.jpg
+date: 
+description: this is meta description
+layout: about
+image: "/images/wids-white-stacked.png"
 testimonial:
   enable: true
-  title: "What People _Say?_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates, ab, ullam."
+  title: What People _Say?_
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid
+    vero harum rerum voluptates, ab, ullam.
   testimonial_items:
-  - name : "Espen Brunberg"
-    designation : "Web Developer"
-    image : "images/speakers/speaker-thumb-three.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
-    
-  - name : "Kaite Stricker"
-    designation : "Web Developer"
-    image : "images/speakers/speaker-thumb-one.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
-    
-  - name : "Adam Smith"
-    designation : "Web Developer"
-    image : "images/speakers/speaker-thumb-five.jpg"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
+  - name: Espen Brunberg
+    designation: Web Developer
+    image: images/speakers/speaker-thumb-three.jpg
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis
+      voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio
+      fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti
+      earum voluptas delectus, labore dolor dolorem amet expedita.
+  - name: Kaite Stricker
+    designation: Web Developer
+    image: images/speakers/speaker-thumb-one.jpg
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis
+      voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio
+      fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti
+      earum voluptas delectus, labore dolor dolorem amet expedita.
+  - name: Adam Smith
+    designation: Web Developer
+    image: images/speakers/speaker-thumb-five.jpg
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis
+      voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio
+      fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti
+      earum voluptas delectus, labore dolor dolorem amet expedita.
+
 ---
+## About The _WIDS_
 
-## About The _Eventre_
+**The Women in Data Science (WiDS) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. WiDS started as a one-day technical conference at Stanford in November 2015. Five years later, WiDS is a global movement that includes a number of worldwide initiatives:**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
-magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+* A **conference** with 150+ regional events worldwide in more than 60 countries, reaching 100,000 participants annually online and in person.
+* A **datathon**, encouraging participants to hone their skills using a social impact challenge.
+* A **podcast** series, featuring data science leaders from around the world talking about their work, their journeys, and lessons learned along the way
+* An **education outreach** program to encourage secondary school students to consider careers in data science, artificial intelligence (AI), and related fields.
