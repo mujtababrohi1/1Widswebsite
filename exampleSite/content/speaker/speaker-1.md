@@ -9,7 +9,7 @@ description: Business Transformation Specialist| Executive Leader | Bespoke Solu
 social:
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
+  link: https://www.linkedin.com/in/devinig/
 personal_info:
   enable: true
   title: Personal Information
