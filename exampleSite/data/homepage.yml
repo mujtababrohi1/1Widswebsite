@@ -28,7 +28,7 @@ about:
     link: "#"
   button_outline:
     enable: true
-    label: Learn More
+    label: LEARN MORE
     link: about
 speakers:
   enable: true
