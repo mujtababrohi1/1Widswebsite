@@ -32,8 +32,7 @@ about:
 speakers:
   enable: true
   title: Who _Speaking?_
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor
-    incididunt ut labore
+  content: Women leaders in Data science
 tab:
   enable: true
   title: Event Schedule
