@@ -1,26 +1,14 @@
 ---
-title: Maria Prokofieva
+title: Amanda Cole
 page_header_bg: images/background/page-title-bg.jpg
-date: 
-designation: Web Developer
-image: "/images/maria.jpg"
-description: Senior Lecturer at Victoria Graduate School of Business
+date: 2020-03-14T15:40:24.000+06:00
+designation: President at Data Analytics Student Association
+image: "/images/amanda-cole.jpeg"
+description: She is president of data science club
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
-  link: "#"
+  link: https://www.linkedin.com/in/amanda-cole-86b273205/
 personal_info:
   enable: true
   title: Personal Information
@@ -36,7 +24,7 @@ personal_info:
   - Morbi fermentum felis nec
   - Fermentum felis nec gravida tempus.
 skills:
-  enable: true
+  enable: false
   title: Personal Skills
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
     suscipit deleniti voluptatum quos nostrum iure doloremque.
@@ -51,4 +39,4 @@ skills:
     percentage: 80%
 
 ---
-## Senior Lecturer at Victoria Graduate School of Business
+## Student at Victoria University
