@@ -35,109 +35,16 @@ speakers:
   content: Women leaders in Data science
 tab:
   enable: true
-  title: Event Schedule
+  title: Agenda
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor
     incididunt ut labore
   tablist:
-  - name: Day-01
-    date: 20 November 2017
-    tablist_items:
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-one.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-two.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-three.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-four.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-five.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-six.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-  - name: Day-02
-    date: 23 November 2017
-    tablist_items:
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-one.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-two.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-three.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-four.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-five.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-six.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-  - name: Day-03
-    date: 25 November 2017
-    tablist_items:
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-one.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-two.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-three.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-four.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-five.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
-    - speaker: Samanta Doe
-      speaker_image: images/speakers/speaker-thumb-six.jpg
-      subject: Introduction to Wp
-      venue: Auditorium A
-      time: 9.00 AM
+  - name: Workshops
+    date: 
+    tablist_items: ''
+  - name: Datathon
+    date: 
+    tablist_items: ''
 registration:
   enable: true
   title: Register to _Eventre_
