@@ -1,10 +1,10 @@
 ---
-title: Amanda Cole
+title: Maria Prokofieva
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
-designation: DASA President
-image: "/images/amanda-cole.jpeg"
-description: She is president of data science club
+date: 
+designation: Web Developer
+image: "/images/maria.jpg"
+description: Senior Lecturer at Victoria Graduate School of Business
 social:
 - name: facebook
   icon: fa-facebook
@@ -14,7 +14,7 @@ social:
   link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: https://www.linkedin.com/in/amanda-cole-86b273205/
+  link: "#"
 - name: instagram
   icon: fa-instagram
   link: "#"
@@ -51,4 +51,4 @@ skills:
     percentage: 80%
 
 ---
-## Student at Victoria University
+## Senior Lecturer at Victoria Graduate School of Business
