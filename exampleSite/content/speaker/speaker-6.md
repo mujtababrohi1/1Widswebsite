@@ -1,10 +1,10 @@
 ---
-title: Michelle Mae (Roldan) Lugton
+title: https://www.linkedin.com/in/atousa-ghahramani-ab322980/
 page_header_bg: images/background/page-title-bg.jpg
 date: 2020-03-14T15:40:24.000+06:00
 designation: Web Developer
-image: "/images/michelle-mae-lugton.jpeg"
-description: Data Science Lead at Coles
+image: images/speakers/speaker-six.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit.
 social:
 - name: facebook
   icon: fa-facebook
@@ -14,7 +14,7 @@ social:
   link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
+  link: "#https://www.linkedin.com/in/atousa-ghahramani-ab322980/"
 - name: instagram
   icon: fa-instagram
   link: "#"
@@ -51,4 +51,4 @@ skills:
     percentage: 80%
 
 ---
-## Data Science Lead at Coles
+Vice President at Data Analytics Student Association
