@@ -11,7 +11,7 @@ social:
   icon: fa-linkedin
   link: https://www.linkedin.com/in/devinig/
 personal_info:
-  enable: true
+  enable: false
   title: Personal Information
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
     suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem
@@ -25,7 +25,7 @@ personal_info:
   - Morbi fermentum felis nec
   - Fermentum felis nec gravida tempus.
 skills:
-  enable: true
+  enable: false
   title: Personal Skills
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
     suscipit deleniti voluptatum quos nostrum iure doloremque.
