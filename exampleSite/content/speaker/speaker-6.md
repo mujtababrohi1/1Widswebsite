@@ -2,27 +2,15 @@
 title: https://www.linkedin.com/in/atousa-ghahramani-ab322980/
 page_header_bg: images/background/page-title-bg.jpg
 date: 2020-03-14T15:40:24.000+06:00
-designation: Web Developer
-image: images/speakers/speaker-six.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit.
+designation: Vice President at Data Analytics Student Association
+image: "/images/atousa-ghahramani.jpeg"
+description: Vice President at Data Analytics Student Association
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
   link: "#https://www.linkedin.com/in/atousa-ghahramani-ab322980/"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
-  link: "#"
 personal_info:
-  enable: true
+  enable: false
   title: Personal Information
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
     suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem
@@ -36,7 +24,7 @@ personal_info:
   - Morbi fermentum felis nec
   - Fermentum felis nec gravida tempus.
 skills:
-  enable: true
+  enable: false
   title: Personal Skills
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
     suscipit deleniti voluptatum quos nostrum iure doloremque.
