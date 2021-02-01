@@ -41,7 +41,12 @@ tab:
   tablist:
   - name: Workshops
     date: 
-    tablist_items: ''
+    tablist_items:
+    - speaker: Maria Prokofieva
+      speaker_image: "/images/maria.jpg"
+      subject: 'DATATHON CONTEXT '
+      venue: ''
+      time: '10:15'
   - name: Datathon
     date: 
     tablist_items: ''
