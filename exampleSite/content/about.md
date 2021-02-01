@@ -2,7 +2,7 @@
 title: About Us
 page_header_bg: images/background/page-title-bg.jpg
 date: 
-description: this is meta description
+description: WiDs Conference 2021
 layout: about
 image: "/images/wids-white-stacked.png"
 testimonial:
