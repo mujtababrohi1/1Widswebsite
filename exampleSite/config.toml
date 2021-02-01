@@ -15,18 +15,18 @@ weight = 6
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "WIDS"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "WIDS"
 description = "This is meta description"
-logo = "/images/melbourne-australia.png"
-logo_footer = "/images/melbourne-australia.png"
+logo = "/images/screen-shot-2021-02-01-at-7-48-05-pm.png"
+logo_footer = "/images/screen-shot-2021-02-01-at-7-48-05-pm.png"
 logo_width = "100px"
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 link = "#"
 location = "Street Address, Location, <br>City, Country."
@@ -36,7 +36,7 @@ map_marker = "images/marker.png"
 name = "Docklands Convention"
 phone = "[00] 000 000 000"
 [params.navigation_button]
-enable = true
+enable = false
 icon = "images/icon/ticket.png"
 label = "Buy Ticket"
 link = "/"
@@ -78,27 +78,15 @@ enable = true
 preloader = ""
 [params.subscription]
 content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
-enable = true
+enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 title = "Subscribe to Our Newsletter"
 [[params.social]]
 icon = "fa-facebook"
-link = "#"
+link = "#https://www.facebook.com/groups/285698912845274"
 title = "facebook"
 [[params.social]]
 icon = "fa-twitter"
 link = "#"
 title = "twitter"
-[[params.social]]
-icon = "fa-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "fa-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "fa-linkedin"
-link = "#"
-title = "linkedin"
