@@ -1,26 +1,14 @@
 ---
 title: Kelley Lawson (Sternhagen)
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
-designation: Web Developer
+date: 
+designation: VP, eCommerce, Marketing Analytics & Strategy at Cost Plus World Market
 image: "/images/kelley-sternhagen.jpeg"
 description: VP, eCommerce, Marketing Analytics & Strategy at Cost Plus World Market
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
-  link: "#"
+  link: https://www.linkedin.com/in/kelleysternhagen/
 personal_info:
   enable: true
   title: Personal Information
@@ -51,4 +39,11 @@ skills:
     percentage: 80%
 
 ---
-## VP, eCommerce, Marketing Analytics & Strategy at Cost Plus World Market
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore
+dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse.
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
+dolores eos qui ratione voluptatem sequi nesciunt.
+
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
