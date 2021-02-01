@@ -11,7 +11,7 @@ banner:
     day: "8"
   button:
     enable: true
-    label: get ticket now
+    label: Join Now
     link: "#"
 about:
   enable: true
