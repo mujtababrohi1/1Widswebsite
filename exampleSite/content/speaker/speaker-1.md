@@ -1,26 +1,14 @@
 ---
 title: Devini Goonetilleke
 page_header_bg: images/background/page-title-bg.jpg
-date: 
-designation: Web Developer
+date: 2020-03-14T15:40:24.000+06:00
+designation: Founder at Puzzle Box
 image: "/images/devini-goonetilleke.jpeg"
 description: Business Transformation Specialist| Executive Leader | Bespoke Solutions
   for Transformation Challenges I Digital
 social:
-- name: facebook
-  icon: fa-facebook
-  link: "#"
-- name: twitter
-  icon: fa-twitter
-  link: "#"
 - name: linkedin
   icon: fa-linkedin
-  link: "#"
-- name: instagram
-  icon: fa-instagram
-  link: "#"
-- name: skype
-  icon: fa-skype
   link: "#"
 personal_info:
   enable: true
@@ -50,7 +38,6 @@ skills:
     percentage: 60%
   - name: HTML
     percentage: 80%
-categories: []
 
 ---
 ## Business Transformation Specialist| Executive Leader | Bespoke Solutions for Transformation Challenges I Digital
