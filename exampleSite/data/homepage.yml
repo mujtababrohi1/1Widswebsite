@@ -63,6 +63,11 @@ tab:
   - name: Workshop Talks
     date: 
     tablist_items:
+    - speaker: Maria Prokofieva
+      speaker_image: "/images/maria.jpg"
+      subject: Networking and Closing
+      venue: ''
+      time: ''
     - speaker_image: ''
       subject: ''
       venue: ''
