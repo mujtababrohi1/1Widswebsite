@@ -45,6 +45,11 @@ tab:
   - name: Datathon
     date: 
     tablist_items:
+    - speaker: Atousa Ghahramani
+      speaker_image: "/images/atousa-ghahramani.jpeg"
+      subject: Demo on attempting a sample data challenge
+      venue: ''
+      time: '10:30'
     - speaker: Maria Prokofieva
       speaker_image: "/images/maria.jpg"
       subject: Datathon Context
