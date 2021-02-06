@@ -8,7 +8,7 @@ draft = true
 image = "/images/header-bg.jpg"
 page_header_bg = "/images/4.png"
 tags = []
-title = "Contact us"
+title = "Contact"
 
 +++
 1\. Contacts: Conference organization: 
