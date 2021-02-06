@@ -18,11 +18,7 @@ weight = 4
 > We do not have a call for speakers, nor do we work through speaker bureaus and representatives.**
 
 If you have additional questions or need further information,  
-​please** [**e**](mailto:widsconference@stanford.edu)[**mail the WiDS Ambassador Dr. Maria Prokofieva.**]( Maria.prokofieva@vu.edu.au)
-
-# 
-
-# **Conference organization:**
+​please** **email the WiDS Ambassador Dr. Maria Prokofieva.**
 
 # WIDS Ambassador Dr. Maria Prokofieva
 
