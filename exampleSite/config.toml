@@ -32,8 +32,8 @@ author = "WIDS"
 contact_form_action = "#"
 copyright = "WIDS"
 description = "This is meta description"
-logo = "/images/wids-black-1line-1.jpg"
-logo_footer = "/images/wids-black-1line-1.jpg"
+logo = "/images/wids-matrix-1line.png"
+logo_footer = "/images/wids-matrix-1line.png"
 logo_width = "300px"
 [params.cookies]
 enable = false
