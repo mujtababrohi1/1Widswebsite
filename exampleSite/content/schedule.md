@@ -4,7 +4,7 @@ page_header_bg: images/background/page-title-bg.jpg
 date: 
 description: ''
 layout: schedule
-image: "/images/wids-black-stacked.jpg"
+image: "/images/4.png"
 
 ---
 10:00
