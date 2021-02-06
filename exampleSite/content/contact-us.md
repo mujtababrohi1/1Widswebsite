@@ -4,8 +4,8 @@ author_id = ""
 categories = []
 date = ""
 description = ""
-image = "/images/rsz_me2me.png"
-page_header_bg = "/images/gallery/gallery-full-popup-three.jpg"
+image = "/images/header-bg.png"
+page_header_bg = ""
 tags = []
 title = "Contact"
 [menu.main]
@@ -16,13 +16,13 @@ weight = 4
 
 WIDS Ambassador Dr. Maria Prokofieva
 
-![](/images/rsz_me2me.png)
+![](/images/rsz_me2me.png "Maria")
 
 [https://www.linkedin.com/in/mariapr/](https://www.linkedin.com/in/mariapr/ "LinkedIn")
 
 Amanda Cole (VU Data Analytics Student Association)
 
-![](/images/amanda-cole.jpeg)
+![](/images/amanda-cole.jpeg "Amanda Cole")
 
 [https://www.linkedin.com/in/amanda-cole-86b273205/](https://www.linkedin.com/in/amanda-cole-86b273205/ "LinkedIn")
 
