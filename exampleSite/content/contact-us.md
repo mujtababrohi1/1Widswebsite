@@ -8,6 +8,8 @@ image = "/images/header-bg.jpg"
 page_header_bg = "/images/4.png"
 tags = []
 title = "Contact"
+[menu.main]
+weight = 4
 
 +++
 1\. Contacts: Conference organization: 
