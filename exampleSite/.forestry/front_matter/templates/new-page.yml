@@ -16,5 +16,3 @@ fields:
     min: 
     max: 
   description: Details
-pages:
-- exampleSite/content/contact-us.md
