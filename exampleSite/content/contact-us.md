@@ -1,7 +1,7 @@
 +++
 author = ""
 author_id = ""
-categories = ["LInkedin"]
+categories = []
 date = ""
 description = ""
 image = ""
