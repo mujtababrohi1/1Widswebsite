@@ -4,8 +4,8 @@ author_id = ""
 categories = []
 date = ""
 description = ""
-image = "/images/header-bg.png"
-page_header_bg = ""
+image = ""
+page_header_bg = "/images/header-bg.png"
 tags = []
 title = "Contact"
 [menu.main]
