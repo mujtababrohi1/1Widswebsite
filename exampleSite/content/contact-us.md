@@ -1,7 +1,7 @@
 +++
 author = ""
 author_id = ""
-categories = []
+categories = ["LInkedin"]
 date = ""
 description = ""
 image = ""
@@ -16,13 +16,9 @@ weight = 4
 
 WIDS Ambassador Dr. Maria Prokofieva
 
-![](/images/rsz_me2me.png "Maria")
-
 [https://www.linkedin.com/in/mariapr/](https://www.linkedin.com/in/mariapr/ "LinkedIn")
 
 Amanda Cole (VU Data Analytics Student Association)
-
-![](/images/amanda-cole.jpeg "Amanda Cole")
 
 [https://www.linkedin.com/in/amanda-cole-86b273205/](https://www.linkedin.com/in/amanda-cole-86b273205/ "LinkedIn")
 
