@@ -5,7 +5,7 @@ categories = []
 date = ""
 description = ""
 image = "/images/header-bg.jpg"
-page_header_bg = "/images/4.png"
+page_header_bg = "/images/gallery/gallery-full-popup-three.jpg"
 tags = []
 title = "Contact"
 [menu.main]
