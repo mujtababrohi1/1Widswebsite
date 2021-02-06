@@ -8,5 +8,13 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: maria
+  type: blocks
+  label: Maria
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Details
 pages:
 - exampleSite/content/contact-us.md
