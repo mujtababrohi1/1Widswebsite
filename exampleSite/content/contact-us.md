@@ -14,22 +14,26 @@ title = "Contact"
 weight = 4
 
 +++
-\**Please note that the WiDS Worldwide conference is curated by the organizers and conference committee.  
-We do not have a call for speakers, nor do we work through speaker bureaus and representatives.
+> ****Please note that the WiDS Worldwide conference is curated by the organizers and conference committee.  
+> We do not have a call for speakers, nor do we work through speaker bureaus and representatives.**
 
 If you have additional questions or need further information,  
 ​please** [**e**](mailto:widsconference@stanford.edu)[**mail the WiDS Ambassador Dr. Maria Prokofieva.**]()
 
-**Conference organization:**
+# 
 
-WIDS Ambassador Dr. Maria Prokofieva
+# **Conference organization:**
 
-[https://www.linkedin.com/in/mariapr/](https://www.linkedin.com/in/mariapr/ "LinkedIn")
+# WIDS Ambassador Dr. Maria Prokofieva
 
-Amanda Cole (VU Data Analytics Student Association)
+# [https://www.linkedin.com/in/mariapr/](https://www.linkedin.com/in/mariapr/ "LinkedIn")
 
-[https://www.linkedin.com/in/amanda-cole-86b273205/](https://www.linkedin.com/in/amanda-cole-86b273205/ "LinkedIn")
+# Amanda Cole (VU Data Analytics Student Association)
 
-If you are interested to know more about the conference or wish to speak or contribute, please contact the conference organizer [Maria Prokofieva](): [Maria.prokofieva@vu.edu.au](Maria Prokofieva: Maria.prokofieva@vu.edu.au)
+# [https://www.linkedin.com/in/amanda-cole-86b273205/](https://www.linkedin.com/in/amanda-cole-86b273205/ "LinkedIn")
 
-    
+# 
+
+# 
+
+> **If you are interested to know more about the conference or wish to speak or contribute, please contact the conference organizer Maria Prokofieva:** [**Maria.prokofieva@vu.edu.au**](mailto:Maria.prokofieva@vu.edu.au)
