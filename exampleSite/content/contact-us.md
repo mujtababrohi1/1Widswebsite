@@ -4,7 +4,6 @@ author_id = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = "/images/header-bg.jpg"
 page_header_bg = "/images/4.png"
 tags = []
