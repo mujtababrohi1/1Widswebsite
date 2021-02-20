@@ -11,7 +11,7 @@ page_header_bg = "/images/background/objects.png"
 tags = []
 title = "Contact"
 [menu.main]
-weight = 4
+weight = 3
 
 +++
 > ****Please note that the WiDS Worldwide conference is curated by the organizers and conference committee.  

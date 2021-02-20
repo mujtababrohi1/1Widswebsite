@@ -12,7 +12,7 @@ unsafe = true
 [[menu.main]]
 name = "Speaker"
 url = "speaker"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "About"
 url = "about"
